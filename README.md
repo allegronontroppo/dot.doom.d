@@ -12,6 +12,7 @@ C:\msys64\mingw64\bin\runemacs.exe へのシンボリックリンクを作成す
 
 ### mac
 mac port emacs (EMP)をインストールする。
+[https://github.com/railwaycat/homebrew-emacsmacport
 
 ## doom emacs のインストール
 
@@ -34,12 +35,7 @@ $ git clone https://github.com/allegronontroppo/dot.doom.d.git
 
 
 ## リンク
-- cheet-sheet
-    https://naghdbishi.ir/Doom-Emacs-Cheat-Sheet/README.html
-
-- DoomCasts
-    https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
-
-- Projectile Document
-    https://docs.projectile.mx/projectile/projects.html
+- [cheet-sheet](https://naghdbishi.ir/Doom-Emacs-Cheat-Sheet/README.html)
+- [DoomCasts](https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj)
+- [Projectile Document](https://docs.projectile.mx/projectile/projects.html)
 
