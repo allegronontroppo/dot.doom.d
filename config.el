@@ -296,4 +296,9 @@
        (load-directory ld)
    ))
 
+;; M-x calculator
+;;    https://qiita.com/hazudojins/items/f117ba23aa427ac84a9f
+(add-hook 'calculator-mode-hook
+          '(lambda () (enlarge-window 3)))
+
 ;; end of config.el
